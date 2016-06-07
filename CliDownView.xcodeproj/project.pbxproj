@@ -16,7 +16,6 @@
 		B827B3FA1D001BD50078A872 /* CliDownViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B827B3F91D001BD50078A872 /* CliDownViewTests.m */; };
 		B827B4051D001BD50078A872 /* CliDownViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B827B4041D001BD50078A872 /* CliDownViewUITests.m */; };
 		B827B4141D0021330078A872 /* CliDownListMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = B827B4131D0021330078A872 /* CliDownListMenu.m */; };
-		B827B5311D051B4A0078A872 /* KxMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = B827B5301D051B4A0078A872 /* KxMenu.m */; };
 		B827B5351D051B730078A872 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B827B5321D051B730078A872 /* Default-568h@2x.png */; };
 		B827B5361D051B730078A872 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B827B5331D051B730078A872 /* Default.png */; };
 		B827B5371D051B730078A872 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B827B5341D051B730078A872 /* Default@2x.png */; };
@@ -63,8 +62,6 @@
 		B827B4061D001BD50078A872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B827B4121D0021330078A872 /* CliDownListMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CliDownListMenu.h; sourceTree = "<group>"; };
 		B827B4131D0021330078A872 /* CliDownListMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CliDownListMenu.m; sourceTree = "<group>"; };
-		B827B52F1D051B4A0078A872 /* KxMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KxMenu.h; sourceTree = "<group>"; };
-		B827B5301D051B4A0078A872 /* KxMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KxMenu.m; sourceTree = "<group>"; };
 		B827B5321D051B730078A872 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B827B5331D051B730078A872 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		B827B5341D051B730078A872 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
@@ -131,8 +128,6 @@
 				B827B5321D051B730078A872 /* Default-568h@2x.png */,
 				B827B5331D051B730078A872 /* Default.png */,
 				B827B5341D051B730078A872 /* Default@2x.png */,
-				B827B52F1D051B4A0078A872 /* KxMenu.h */,
-				B827B5301D051B4A0078A872 /* KxMenu.m */,
 				B827B3E21D001BD50078A872 /* AppDelegate.h */,
 				B827B3E31D001BD50078A872 /* AppDelegate.m */,
 				B827B3E51D001BD50078A872 /* ViewController.h */,
@@ -317,7 +312,6 @@
 			files = (
 				B827B3E71D001BD50078A872 /* ViewController.m in Sources */,
 				B827B4141D0021330078A872 /* CliDownListMenu.m in Sources */,
-				B827B5311D051B4A0078A872 /* KxMenu.m in Sources */,
 				B827B3E41D001BD50078A872 /* AppDelegate.m in Sources */,
 				B827B3E11D001BD50078A872 /* main.m in Sources */,
 			);
